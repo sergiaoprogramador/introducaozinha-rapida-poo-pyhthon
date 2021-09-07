@@ -17,4 +17,6 @@ Nesse repositório dei uma revisada de como o python trabalha com o básico de O
   - Métodos de leitura dos atributos, Getters
   - Médtodos modificadores dos atributos, Setters
   - @Property
+  - Métodos Privados
+  - Métodos estáticos
   
