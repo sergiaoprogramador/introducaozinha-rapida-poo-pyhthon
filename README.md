@@ -14,4 +14,7 @@ Nesse repositório dei uma revisada de como o python trabalha com o básico de O
   - Encapsulamento de código
   - Encapsulamento da manipulação de atributos nos métodos
   - Coesão de código (Single Responsability Principle)
+  - Métodos de leitura dos atributos, Getters
+  - Médtodos modificadores dos atributos, Setters
+  - @Property
   
