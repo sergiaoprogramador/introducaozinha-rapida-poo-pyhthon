@@ -10,4 +10,8 @@ Nesse repositório dei uma revisada de como o python trabalha com o básico de O
   - Métodos da classe
   - chamar os metodos atraves do objeto
   - Garbage Collector
+  - Atributos privados
+  - Encapsulamento de código
+  - Encapsulamento da manipulação de atributos nos métodos
+  - Coesão de código (Single Responsability Principle)
   
